@@ -1,5 +1,7 @@
 body {
-  font-family: Optima, 'Lucida Sans', Calibri, Candara, Arial, 'source-han-serif-sc', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif TC', 'Source Han Serif TW', 'Source Han Serif', 'Songti SC', 'Microsoft YaHei', sans-serif;
+  /* font: Arvo */
+  font-family: Arvo, Helvetica Neue, Helvetica, Nimbus Sans L, Arial, Liberation Sans, Pingfang Sc, Hiragino Sans Gb, Noto Sans Cjk Sc, Source Han Sans Sc, Source Han Sans Cn, Microsoft Yahei, Wenquanyi Micro Hei, Wenquanyi Zen Hei, St Heiti, Simhei, Wenquanyi Zen Hei Sharp, Sans Serif
+    /* font-family: Optima, 'Lucida Sans', Calibri, Candara, Arial, 'source-han-serif-sc', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif TC', 'Source Han Serif TW', 'Source Han Serif', 'Songti SC', 'Microsoft YaHei', sans-serif; */
 }
 code {
   font-family: "Lucida Console", 'Andale Mono', 'STKaiti', 'KaiTi', 'SimKai', monospace;
